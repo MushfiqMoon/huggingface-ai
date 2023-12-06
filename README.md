@@ -22,6 +22,6 @@ This repository contains a simple script demonstrating image caption generation 
 This project utilizes the pre-trained image captioning model "nlpconnect/vit-gpt2-image-captioning" from Hugging Face. You can explore other models for different tasks on the Hugging Face Hub: https://huggingface.co/models
 
 ## Further Development
-Implement a user interface for uploading images and displaying captions.
-Experiment with different image captioning models and compare their performance.
-Integrate the image captioning functionality with other applications.
+1. Implement a user interface for uploading images and displaying captions.
+2. Experiment with different image captioning models and compare their performance.
+3. Integrate the image captioning functionality with other applications.
